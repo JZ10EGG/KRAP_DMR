@@ -1,6 +1,6 @@
 #	DMR_Hosts.txt
-#	Editted for KRAP DMR by Gilang Gumilar (JZ10EGG)
-#	Updated 25-January-2023
+#	Editted for KRAP DMR by Gilang Gumilar (JZ10EGG/YG1AWU)
+#	Updated 18-November-2023
 ######################################################################################################
 #
 #				KRAP DMR NETWORK Hosts Below
@@ -10,5 +10,10 @@
 ######################################################################################################
 KRAP_DMR			0000	103.174.114.231				passw0rd	62030
 HB_DMRID1			0000	103.187.147.208				passw0rd	62030
-KOPERASI			0000	dmr.missioncritical.id				g@skeun 	62030
+KOPERASI			0000	103.175.218.10				g@skeun 	62030
+######################################################################################################
+# BrandMeister Khusus Amatir
+######################################################################################################
+BM_5021_Malaysia		5021	5021.master.brandmeister.network	passw0rd	62031
+BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 ######################################################################################################
